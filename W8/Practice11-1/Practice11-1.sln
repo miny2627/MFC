@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Practice11-1", "Practice11-1\Practice11-1.vcxproj", "{D989B394-F28A-4F39-A260-FF2F8EC438DC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calenderdll", "Calenderdll\Calenderdll.vcxproj", "{D24DDF37-DDCB-456D-86C4-109882DAD542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D989B394-F28A-4F39-A260-FF2F8EC438DC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D989B394-F28A-4F39-A260-FF2F8EC438DC}.Debug|Win32.Build.0 = Debug|Win32
+		{D989B394-F28A-4F39-A260-FF2F8EC438DC}.Release|Win32.ActiveCfg = Release|Win32
+		{D989B394-F28A-4F39-A260-FF2F8EC438DC}.Release|Win32.Build.0 = Release|Win32
+		{D24DDF37-DDCB-456D-86C4-109882DAD542}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D24DDF37-DDCB-456D-86C4-109882DAD542}.Debug|Win32.Build.0 = Debug|Win32
+		{D24DDF37-DDCB-456D-86C4-109882DAD542}.Release|Win32.ActiveCfg = Release|Win32
+		{D24DDF37-DDCB-456D-86C4-109882DAD542}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

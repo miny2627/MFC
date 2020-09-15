@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise11_1", "Exercise11_1\Exercise11_1.vcxproj", "{9E3963F0-D91C-4A94-AC8A-BD1A89ACA307}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalcDll", "CalcDll\CalcDll.vcxproj", "{5203C1B1-49AD-4649-8664-855F2D0F588B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E3963F0-D91C-4A94-AC8A-BD1A89ACA307}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9E3963F0-D91C-4A94-AC8A-BD1A89ACA307}.Debug|Win32.Build.0 = Debug|Win32
+		{9E3963F0-D91C-4A94-AC8A-BD1A89ACA307}.Release|Win32.ActiveCfg = Release|Win32
+		{9E3963F0-D91C-4A94-AC8A-BD1A89ACA307}.Release|Win32.Build.0 = Release|Win32
+		{5203C1B1-49AD-4649-8664-855F2D0F588B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5203C1B1-49AD-4649-8664-855F2D0F588B}.Debug|Win32.Build.0 = Debug|Win32
+		{5203C1B1-49AD-4649-8664-855F2D0F588B}.Release|Win32.ActiveCfg = Release|Win32
+		{5203C1B1-49AD-4649-8664-855F2D0F588B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
